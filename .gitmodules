@@ -1,0 +1,6 @@
+[submodule "modules/mobile"]
+	path = modules/mobile
+	url = https://github.com/irishshagua/dublin-pubs-cordova.git
+[submodule "modules/backend"]
+	path = modules/backend
+	url = https://github.com/irishshagua/dublin-pubs-backend.git
